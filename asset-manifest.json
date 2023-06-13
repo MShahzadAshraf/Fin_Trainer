@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FIN_Trainer/static/css/main.1873c0c3.css",
+    "main.js": "/FIN_Trainer/static/js/main.c90c1c7b.js",
+    "static/js/787.dbfa8a74.chunk.js": "/FIN_Trainer/static/js/787.dbfa8a74.chunk.js",
+    "static/media/main-header_background.png": "/FIN_Trainer/static/media/main-header_background.ab2f6a9911183f514f98.png",
+    "static/media/how_we_work.png": "/FIN_Trainer/static/media/how_we_work.cc9b443b73059aff0664.png",
+    "static/media/fintech_school.png": "/FIN_Trainer/static/media/fintech_school.be147ef37baf590de5ea.png",
+    "static/media/footer_logo.svg": "/FIN_Trainer/static/media/footer_logo.fe427f83f27fbfb66378467fcdd828e8.svg",
+    "static/media/disclosure_app.png": "/FIN_Trainer/static/media/disclosure_app.f96fefc9748508f36da9.png",
+    "static/media/fin-disclosure.svg": "/FIN_Trainer/static/media/fin-disclosure.f6038f8d688d9298735b5a16b85498a1.svg",
+    "static/media/fin-compliance.svg": "/FIN_Trainer/static/media/fin-compliance.f4e7a3fa38d2a742dd9af1b93a02d45d.svg",
+    "static/media/app_store.svg": "/FIN_Trainer/static/media/app_store.ada4eb0bf535d9f60fb12253a705f79c.svg",
+    "static/media/fin-blockchain.svg": "/FIN_Trainer/static/media/fin-blockchain.d3155765d4c348ff9ca568cf717bad8c.svg",
+    "static/media/digital_asset_counsil.jpg": "/FIN_Trainer/static/media/digital_asset_counsil.4ab795248d0053d91b51.jpg",
+    "static/media/fin-lancer.svg": "/FIN_Trainer/static/media/fin-lancer.26978edaa222361addbab6c0eb1c5d3b.svg",
+    "static/media/play_store.svg": "/FIN_Trainer/static/media/play_store.8e226a7d71b1a787ded0ca4adbef9431.svg",
+    "index.html": "/FIN_Trainer/index.html",
+    "main.1873c0c3.css.map": "/FIN_Trainer/static/css/main.1873c0c3.css.map",
+    "main.c90c1c7b.js.map": "/FIN_Trainer/static/js/main.c90c1c7b.js.map",
+    "787.dbfa8a74.chunk.js.map": "/FIN_Trainer/static/js/787.dbfa8a74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1873c0c3.css",
+    "static/js/main.c90c1c7b.js"
+  ]
+}
